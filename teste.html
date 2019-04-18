@@ -7,8 +7,21 @@
 
     </head>
 
-        <body>  
-            <button onclick="msg()">Eu sou um botão, clique aqui</button>
+        <body>   
+        
+            <button onclick="msg('Davi')">Clique aqui</button>
+            <button onmouseover="mensagem('jesus')">Clique aqui</button>
+
+            <span id="mensagem_span">OLá Mundo!!</span>
+            <button onclick="alteracor1('blue')">Azul</button>
+            <button onclick="alteracor1('red')">Vermelho</button>
+
+            <form>
+                <label id="Nome">Nome</label>
+                <br>
+                <input placeholder="Nome.." type="text" name="nome" id="nome">
+                <input type="submit" onclick="valida()">
+            </form>
         
         </body>
 
