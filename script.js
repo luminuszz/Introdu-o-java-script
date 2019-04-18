@@ -1,5 +1,5 @@
 
-
+/*
 // Programa java Script introdução//
 var a = 5;
 var b = "ola mundo";
@@ -52,6 +52,6 @@ for(i in array){
 // Utilizando console,log
 
 console.log("EAI!!!");
-
+/*
 //Introdução a Funções
 

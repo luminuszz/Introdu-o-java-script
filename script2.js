@@ -1,4 +1,4 @@
-// Funções
+/* Funções
 function davi(a, b){
 console.log (a+b);
 }
@@ -16,4 +16,8 @@ return a*b;
 }
 
 console.log(d4(5,5));
+*/
 
+function msg(){
+alert("Não clique em mim");
+}
