@@ -52,6 +52,4 @@ for(i in array){
 // Utilizando console,log
 
 console.log("EAI!!!");
-/*
-//Introdução a Funções
-
+/
