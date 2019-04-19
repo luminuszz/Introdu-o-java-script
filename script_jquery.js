@@ -46,8 +46,8 @@ $(function(){
 
 // Gravar mensagem usando java Script utlizando o .text (obs pode-se customizar essa mensagem com css)
 // Pode-se controlar o tempo da messagem usando .fadeOut.
-//Obs técnica de encadamaento.
-//Declaração multiplica de CSS utilizando chaves {}.
+// Obs técnica de encadamaento.
+// Declaração multiplica de CSS utilizando chaves {}.
 $(function(){
     $('#azul').click(function(){
         $('p').css("background-color","blue")
